@@ -1,2 +1,7 @@
 .venv/
 ProposalTabularDCR.txt
+
+data/raw/
+data/processed/
+experiments/benchmarking/runs/
+experiments/credit_risk/runs/
